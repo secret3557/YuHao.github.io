@@ -1,1 +1,2 @@
-hihi **bold** and *italic*. and [link](http://github.com)
+**bold** and *italic*. and [link](http://github.com)
+hihi
