@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Welcome to YuHao's homepage!
 description: no purpose, just some notes about my works
+twitter:
+  username               : &twitter "opendatakit"
+facebook:
+  username               : &facebook "opendatakit"
